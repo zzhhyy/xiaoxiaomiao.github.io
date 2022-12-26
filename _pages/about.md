@@ -21,13 +21,13 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
-# <i class="fa-solid fa-book"></i> Research Area
+# 📜 Research Area
 - *Speech Processing*: Speaker recognition and verification; Speech separation
 - *Computer Vision*: Face recognition; Face detection; Lip reading
 - *Multi-modal Processing*: Audio-visual active speaker detection
 - *Self-supervised Learning*: Self-supervised speech processing
 
-# 📖 Education
+# 🏫 Education
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
@@ -63,14 +63,14 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
 - [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021. 
 
-# 📖 Open Source Code
+# ⌨️ Open Source Code
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
 - *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
 - *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
 - *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
 - *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
 
-# 💻 Internship and Visiting Experience
+# 👔 Internship and Visiting Experience
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
@@ -83,7 +83,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 # 💬 Reviewer
 - Reviewer of CVPR, SPL
 
-# 📖 Teaching
+# 🧑‍🏫 Teaching
 - EE3801 Data Engineering Principles, NUS undergraduate course
 - EE5132 Wireless and Sensor Networks, NUS graduate course
 
