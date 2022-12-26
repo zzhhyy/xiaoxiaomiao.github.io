@@ -76,16 +76,17 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
-# 🎖 Award
+# 🎖 Others
+## Award
 - PREMIA Best Student Paper Award, 2022
 - The 2nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
 - The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
 - NUS Research Scholarship, 2019
 
-# 💬 Reviewer
+## Reviewer 
 - Reviewer of CVPR, SPL
 
-# 🧑‍🏫 Teaching
+## Teaching
 - EE3801 Data Engineering Principles, NUS undergraduate course
 - EE5132 Wireless and Sensor Networks, NUS graduate course
 
