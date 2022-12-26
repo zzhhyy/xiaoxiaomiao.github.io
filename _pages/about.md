@@ -21,6 +21,12 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
+# 📖 Research Area
+- *Speech Processing*: Speaker recognition and verification; Speech separation
+- *Computer Vision*: Face recognition; Face detection; Lip reading
+- *Multi-modal Processing*: Audio-visual active speaker detection
+- *Self-supervised Learning*: Self-supervised speech processing
+
 # 📖 Education
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
@@ -61,8 +67,9 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - Audio-visual Speaker Recognition Framework [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
 - Ego4d Benchmark [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
 
-# 💻 Work Experience
+# 💻 Internship and Visiting Experience
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
+- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
 # 🎖 Award
 - PREMIA Best Student Paper Award, 2022
