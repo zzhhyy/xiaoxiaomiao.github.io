@@ -21,12 +21,12 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
-# 📖 Educations
+# 📖 Education
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
 
-# 📝 Publications 
+# 📝 Publication
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,10 +59,10 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
 
-# 💻 Work Experiences
+# 💻 Work Experience
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 
-# 🎖 Awards
+# 🎖 Award
 - PREMIA Best Student Paper Award, 2022
 - The 2nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
 - The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
