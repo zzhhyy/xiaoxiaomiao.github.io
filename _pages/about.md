@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate student in College of Intelligence and Computing in Tianjin University, supervised by Prof. [Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html) and Prof. [Jianwu Dang](http://www.jaist.ac.jp/~jdang/index-e.htm). My research topic is Speech Separation Based on Deep Learning in Open Complex Environment. During my PhD period, I also worked as a research assistant in NTU and NUS in Singapore from 2019 to 2022, supervised by Prof. [Eng Siong Chng](https://personal.ntu.edu.sg/aseschng/default.html) and Prof. [Haizhou Li](https://colips.org/~eleliha/). Prior to that, I received my Master’s Degree from Tianjin University under the supervision of Prof. [Di Jin](https://scholar.google.com/citations?hl=zh-CN&user=Q8MRRecAAAAJ) and Prof. [Liang Yang](https://yangliang.github.io/) in 2017, and my master's research topic is Socical Network or Community Detection.
+I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/). Prior to that, I received my Master’s Degree from NUS in 2019 and my Bachelor's Degree from Soochow University in 2018.
 
-My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
+My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
 # 💻 Research Experiences
-- *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2020.04 - 2022.07*, Research Asistant, National University of Singapore (NUS), Singapore.
-- *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore.
-- *2018.09 - 2019.06*, Machine Learning Engineer, AI Lab of Didi Chuxing Company (DiDi), Beijing, China.
+- *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
+- *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
+- *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
 
 # 📝 Publications 
 
@@ -41,61 +40,34 @@ My research interest includes speech processing, speech separation and social ne
 </div>
 </div> -->
 
-- [VCSE: Time-Domain Visual-Contextual Speaker Extraction Network](https://github.com), Junjie Li, **Meng Ge<sup>`*`</sup>**, Zexu Pan, Longbiao Wang, Jianwu Dang, **INTERSPEECH 2022**
-- [USEV: Universal Speaker Extraction with Visual Cue](https://github.com), Zexu Pan, **Meng Ge`*`**, Haizhou Li, **TASLP 2022**
-- [Dual-stream Speech Dereverberation Network Using Long-term and Short-term Cues](https://github.com), Nan Li, **Meng Ge`*`**, Longbiao Wang, Jianwu Dang,  **IJCNN 2022**
-- [MIMO-DoAnet: Multi-channel Input and Multiple Outputs DoA Network with Unknown Number of Sound Sources](https://github.com), Haoran Yin, **Meng Ge**, Yanjie Fu, Gaoyan Zhang, Longbiao Wang, Lei Zhang, Lin Qiu, Jianwu Dang,  **INTERSPEECH 2022**
-- [Language-specific Characteristic Assistance for Code-switching Speech Recognition](https://github.com), Tongtong Song, Qiang Xu, **Meng Ge**, Longbiao Wang, Hao Shi, Yongjie Lv, Yuqin Lin, Jianwu Dang,  **INTERSPEECH 2022**
-- [RAW-GNN: RAndom Walk Aggregation based Graph Neural Network](https://github.com), Di Jin, Rui Wang, **Meng Ge**, Dongxiao He, Xiang Li, Wei Lin, Weixiong Zhang,  **IJCAI 2022**
-- [Iterative Sound Source Localization for Unknown Number of Sources](https://github.com), Yanjie Fu, **Meng Ge**, Haoran Yin, Xinyuan Qian, Longbiao Wang, Gaoyan Zhang, Jianwu Dang,  **INTERSPEECH 2022**
-- [Compressing Transformer-Based ASR Model by Task-Driven Loss and Attention-Based Multi-Level Feature Distillation](https://github.com), Yongjie Lv, Longbiao Wang, **Meng Ge**, Sheng Li, Chenchen Ding, Lixin Pan, Yuguang Wang, Jianwu Dang, Kiyoshi Honda,  **ICASSP 2022**
-- [L-SpEx: Localized Target Speaker Extraction](https://github.com), **Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li,  **ICASSP 2022**
-- [A Hybrid Continuity Loss to Reduce Over-Suppression for Time-domain Target Speaker Extraction](https://github.com), Zexu Pan, **Meng Ge**, Haizhou Li,  **INTERSPEECH 2022**
-- [Global Signal-to-noise Ratio Estimation Based on Multi-subband Processing Using Convolutional Neural Network](https://github.com), Nan Li, **Meng Ge**, Longbiao Wang, Masashi Unoki, Sheng Li, Jianwu Dang,  **INTERSPEECH 2022**
-- [Self-Distillation Based on High-level Information Supervision for Compressing End-to-End ASR Model](https://github.com), Qiang Xu, Tongtong Song, Longbiao Wang, Hao Shi, Yuqin Lin, Yongjie Lv, **Meng Ge**, Qiang Yu, Jianwu Dang,  **INTERSPEECH 2022**
-- [Simultaneous Progressive Filtering-Based Monaural Speech Enhancement](https://github.com), Haoran Yin, Hao Shi, Longbiao Wang, Luya Qiang, Sheng Li, **Meng Ge**, Gaoyan Zhang, Jianwu Dang,  **ICONIP 2021**
-- [Speech Dereverberation Based on Scale-Aware Mean Square Error Loss](https://github.com), Luya Qiang, Hao Shi, **Meng Ge**, Haoran Yin, Nan Li, Longbiao Wang, Sheng Li, Jianwu Dang,  **ICONIP 2021**
-- [Robust Voice Activity Detection Using a Masked Auditory Encoder Based Convolutional Neural Network](https://github.com), Nan Li, Longbiao Wang, Masashi Unoki, Sheng Li, Rui Wang, **Meng Ge**, Jianwu Dang,  **ICASSP 2021**
-- [Multi-Stage Speaker Extraction with Utterance and Frame-Level Reference Signals](https://github.com), **Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li,  **ICASSP 2021**
-- [Order-aware Pairwise Intoxication Detection](https://github.com), **Meng Ge**, Ruixiong Zhang, Wei Zou, Xiangang Li, Cheng Gong, Longbiao Wang, Jianwu Dang,  **ISCSLP 2021**
-- [Neural Speaker Extraction with Speaker-Speech Cross-Attention Network](https://github.com), Wupeng Wang, Chenglin Xu, **Meng Ge**, Haizhou Li,  **INTERSPEECH 2021**
-- [A Pitch-aware Speaker Extraction Serial Network](https://github.com), Yu Jiang, **Meng Ge**, Longbiao Wang, Jianwu Dang, Kiyoshi Honda, Sulin Zhang, Bo Yu,  **APASIPA 2021**
-- [Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation](https://github.com), Hao Shi, Longbiao Wang, **Meng Ge**, Sheng Li, Jianwu Dang,  **ICASSP 2020**
-- [SpEx+: A Complete Time Domain Speaker Extraction Network](https://github.com), **Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li,  **INTERSPEECH 2020**
-- [Singing Voice Extraction with Attention-Based Spectrograms Fusion](https://github.com), Hao Shi, Longbiao Wang, Sheng Li, Chenchen Ding, **Meng Ge**, Jianwu Dang, Hiroshi Seki, **INTERSPEECH 2020**
-- [A Fast Convolutional Self-attention Based Speech Dereverberation Method for Robust Speech Recognition](https://github.com), Nan Li, **Meng Ge**, Longbiao Wang, Jianwu Dang, **ICONIP 2020**
-- [Environment-Dependent Attention-Driven Recurrent Convolutional Neural Network for Robust Speech Enhancement](https://github.com), **Meng Ge**, Longbiao Wang, Nan Li, Hao Shi, Jianwu Dang, Xiangang Li, **INTERSPEECH 2019**
-- [Distant-talking Speech Recognition Based on Multi-objective Learning Using Phase and Magnitude-based Feature](https://github.com), Dongbo Li, Longbiao Wang, Jianwu Dang, **Meng Ge**, Haotian Guan, **ISCSLP 2019**
-- [Pitch Synchronized Relative Phase with Peak Error Detection For Noise-robust Speaker Recognition](https://github.com), **Meng Ge**, Longbiao Wang, Seiichi Nakagawa, Yuta Kawakami, Jianwu Dang, Xiangang Li, **ISCSLP 2019**
-- [Integrative Network Embedding via Deep Joint Reconstruction](https://github.com), Di Jin, **Meng Ge**, Liang Yang, Dongxiao He, Longbiao Wang, Weixiong Zhang, **IJCAI 2018**
-- [Using Deep Learning for Community Discovery in Social Networks](https://github.com), Di Jin, **Meng Ge**, Zhixuan Li, Wenhuan Lu, Dongxiao He, Francoise Fogelman-Soulie, **ICTAI 2017**
-- [Exploring the Roles of Cannot-link Constraint in Community Detection via Multi-variance Mixed Gaussian Generative Model](https://github.com), Liang Yang, **Meng Ge**, Di Jin, Dongxiao He, Huazhu Fu, Jing Wang, Xiaochun Cao, **PLOS ONE 2017**
+- [Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection](https://arxiv.org/pdf/2107.06592.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **ACM Multimedia**, <font color="red">Oral</font>, 2021, [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/TalkNet_ASD)
+- [Self-supervised Speaker Recognition with Loss-gated Learning](https://arxiv.org/pdf/2110.03869.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li. **ICASSP**, 2022, [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=Code+Stars)](https://github.com/TaoRuijie/Loss-Gated-Learning)
+- [Audio-visual Speaker Recognition with a Cross-modal Discriminative Network](https://arxiv.org/abs/2008.03894), **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, **INTERSPEECH**, 2020.
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **submit to TASLP**, 2022. 
+- [Speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Shi Zhan and Haizhou Li, **submit to ICASSP**, 2022. [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=Code+Stars)](https://github.com/TaoRuijie/AVCleanse)
+- [NUS-HLT Report for ActivityNet Challenge 2021 AVA (Speaker)](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S3_NUS_Report_AVA_ActiveSpeaker_2021.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **CVPR Workshop Report**, 2021.
+- [Selective Hearing through Lip-reading](https://arxiv.org/pdf/2106.07150.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, Haizhou Li, **TASLP**, 2021.
+- [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2110.07058.pdf), Kristen Grauman, Andrew Westbury, Eugene Byrne, ..., **Ruijie Tao**, ..., et al, **CVPR**, <font color="red">Oral</font>, 2022. [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Code+Stars)](https://github.com/facebookresearch/Ego4d)
+- [Muse: Multi-modal target speaker extraction with visual cues](https://arxiv.org/pdf/2010.07775.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, **ICASSP**, 2021. 
+- [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
+- Deep Cross-modal Retrieval between Space Image and Acoustic Speech, Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **submit to TMM**, 2022. 
+- [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
+- [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021. 
 
 # 📖 Educations
-- *2017.09 - 2022.10*, Ph.D. in Applied Computer Technology, Tianjin University (TJU), Tianjin, China. 
-- *2015.09 - 2017.06*, M.E. in Software Engineering, Tianjin University (TJU), Tianjin, China. 
-- *2011.09 - 2015.06*, B.E. in Software Engineering / B.S. in Public Management (double major), Tianjin Polytechnic University (TJPU), Tianjin, China. (GPA: 90.33/100, Ranking: Top3)
+- *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
+- *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
+- *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
 
 # 💻 Work Experiences
-- *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.
-- *2014.03 - 2015.06*, Co-Funder and Senior Software Engineer, Tianjin Chuanhe Technology Co., Ltd, Tianjin, China.
-- *2014.01 - 2014.07*, Software Engineer and Team Leader, iSoftStone (Tianjin) Information Technology Group Co, Ltd, Tianjin, China.
-- *2013.06 - 2013.07*, Software Engineer & Team Leader, IBM (Tianjin) Experienced Training Program, Tianjin, China.
+- *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 
 # 🎖 Certifications and Awards
-- Oracle Certified Professional (OCP) - Oracle 10g Database Administrator. 
-- Oracle Database 10g Administrator Certified Associate (OCA). 
-- Outstanding Student Scholarship Award.
-- First-Class Scholarship Award
-- Outstanding Youth Nomination Award
-- Outstanding Graduate Student Award
+- PREMIA Best Student Paper Award, 2022
+- The 2nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
+- The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
+- NUS Research Scholarship, 2019
 
 # 💬 Leadership and Service Experiences
-- Vice Minister, Graduate Student Union, Tianjin University (TJU). 
-- Vice Minister, Lenovo Idea Elite Club, Tianjin Polytechnic University (TJPU)
-- Captain, Volleyball Team, Tianjin Polytechnic University (TJPU)
-- Foreign-Side Volunteer, The 12th Summer Davos Forum
-- Conference Volunteer, The National Conference on Man-Machine Speech Communication (NCMMSC'19)
-- Volunteer Leader, The 11th International Seminar on Speech Production (ISSP'17)
-- Conference Volunteer, The 10th International Symposium on Chinese Spoken Language Processing (ISCSLP'16)
+- Reviewer of CVPR, SPL
 
