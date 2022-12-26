@@ -73,18 +73,15 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [Audio-visual Speaker Recognition with a Cross-modal Discriminative Network](https://arxiv.org/abs/2008.03894), **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, **INTERSPEECH**, 2020.
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
-# 👔 Internship and Visiting Experience
+# ⌨️ Code
 
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
-# ⌨️ Code
+# 👔 Internship and Visiting Experience
 
-- *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
-- *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
-- *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
-- *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
+- *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
+- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
 # 🎖 Others
 
