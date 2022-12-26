@@ -23,10 +23,10 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 # 📜 Research Area
 
-- a <font color="#0b5394"> Speech Processing </font>: Speaker recognition and verification; Speech separation
-- b <font color="#0b5394"> Computer Vision </font>: Face recognition; Face detection; Lip reading
-- c <font color="#0b5394"> Multi-modal Processing </font>: Audio-visual active speaker detection
-- d <font color="#0b5394"> Self-supervised Learning </font>: Self-supervised speech processing
+-  <font color="#0b5394"> Speech Processing </font>: Speaker recognition and verification; Speech separation
+-  <font color="#0b5394"> Computer Vision </font>: Face recognition; Face detection; Lip reading
+-  <font color="#0b5394"> Multi-modal Processing </font>: Audio-visual active speaker detection
+-  <font color="#0b5394"> Self-supervised Learning </font>: Self-supervised speech processing
 
 # 🏫 Education
 
