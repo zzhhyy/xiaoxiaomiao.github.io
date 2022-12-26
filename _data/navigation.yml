@@ -3,23 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
-
-  - title: "Research Experiences"
-    url: "/#-research-experiences"
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Code"
+    url: "/#-open-source-code"
 
   - title: "Work Experiences"
     url: "/#-work-experiences"
 
-  - title: "Certifications and Awards"
-    url: "/#-certifications-and-awards"
+  - title: "Awards"
+    url: "/#-awards"
+    
+  - title: "Reviewer"
+    url: "/#-reviewer"
 
-  - title: "Service Experiences"
-    url: "/#-leadership-and-service-experiences"
+  - title: "Teaching"
+    url: "/#-teaching"
