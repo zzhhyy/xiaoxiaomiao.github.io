@@ -11,12 +11,12 @@ main:
 
   - title: "Publication"
     url: "/#-publication"
-
-  - title: "Internship"
-    url: "/#-internship-and-visiting-experience"
     
   - title: "Code"
     url: "/#-code"
+    
+  - title: "Internship"
+    url: "/#-internship-and-visiting-experience"
 
   - title: "Others"
     url: "/#-others"
