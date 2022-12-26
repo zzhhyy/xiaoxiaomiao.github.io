@@ -22,12 +22,14 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
+
 - <font color="#0b5394">Speech Processing</font>Speaker recognition and verification; Speech separation
 - <font color="#0b5394">Computer Vision</font>Face recognition; Face detection; Lip reading
 - <font color="#0b5394">Multi-modal Processing</font>Audio-visual active speaker detection
 - <font color="#0b5394">Self-supervised Learning</font>Self-supervised speech processing
 
 # 🏫 Education
+
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
@@ -70,6 +72,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 
 # ⌨️ Open Source Code
+
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
 - *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
 - *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
@@ -78,6 +81,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 
 # 👔 Internship and Visiting Experience
+
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
