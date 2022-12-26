@@ -22,7 +22,7 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
-<table border="0"bordercolor="white">
+<table border="0">
   <tr>
     <td> <font color="#0b5394"> Speech Processing </font>: Speaker recognition and verification; Speech separation </td>
     <td> - <font color="#0b5394"> Computer Vision </font>: Face recognition; Face detection; Lip reading</td>
@@ -60,7 +60,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
-# 💻 Work Experiences
+# 💻 Open Source Code
 - *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.
 - *2014.03 - 2015.06*, Co-Funder and Senior Software Engineer, Tianjin Chuanhe Technology Co., Ltd, Tianjin, China.
 - *2014.01 - 2014.07*, Software Engineer and Team Leader, iSoftStone (Tianjin) Information Technology Group Co, Ltd, Tianjin, China.
