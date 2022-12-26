@@ -24,12 +24,12 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>    Speaker recognition and verification; Speech separation </td>
-    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>    Face recognition; Face detection; Lip reading</td>
+    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp; Speaker recognition and verification; Speech separation </td>
+    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp; Face recognition; Face detection; Lip reading</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>    Audio-visual active speaker detection</td>
-    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>    Self-supervised speech processing </td>
+    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp; Audio-visual active speaker detection</td>
+    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp; Self-supervised speech processing </td>
   </tr>
 </table>
 
