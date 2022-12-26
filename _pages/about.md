@@ -55,11 +55,11 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021. 
 
 # 📖 Open Source Code
-- [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
-- [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet_ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
-- [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
-- [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
+- Speaker Recognition Framework [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
+- Active Speaker Detection Framework [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
+- Self-supervised Speaker Recognition Framework [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
+- Audio-visual Speaker Recognition Framework [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
+- Ego4d Benchmark [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
 
 # 💻 Work Experience
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
