@@ -62,15 +62,14 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [Audio-visual Speaker Recognition with a Cross-modal Discriminative Network](https://arxiv.org/abs/2008.03894), **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, **INTERSPEECH**, 2020.
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
-# ⌨️ Code
-
-- *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
-
 # 👔 Internship and Visiting Experience
 
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
+
+# News
+
+what
 
 # 🎖 Others
 
