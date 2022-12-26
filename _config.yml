@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tao Ruijie"
 description              : "PhD student at National University of Singapore"
-repository               : "TaoRuijie/taoruijie.github.io"
+repository               : "taoruijie.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
