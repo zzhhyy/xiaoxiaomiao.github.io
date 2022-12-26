@@ -21,7 +21,7 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
-# 💻 Research Experiences
+# 📖 Educations
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
@@ -54,7 +54,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **arxiv**, 2021.
 - [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021. 
 
-# 📖 Educations
+# 📖 Open Source Code
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
