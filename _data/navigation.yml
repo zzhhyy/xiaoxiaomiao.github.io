@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Publication"
+    url: "/#-publication"
 
   - title: "Code"
     url: "/#-open-source-code"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
+  - title: "Internship"
+    url: "/#-work-experience"
 
-  - title: "Awards"
-    url: "/#-awards"
+  - title: "Award"
+    url: "/#-award"
     
   - title: "Reviewer"
     url: "/#-reviewer"
