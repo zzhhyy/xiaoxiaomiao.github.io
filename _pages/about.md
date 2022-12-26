@@ -71,7 +71,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
 
-# ⌨️ Open Source Code
+# ⌨️ Code
 
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
 - *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
