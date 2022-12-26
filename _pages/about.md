@@ -60,9 +60,11 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
 
-# News
-
-what
+# 💻 Work Experiences
+- *2015.07 - 2016.07*, Co-Funder, Tianjin Lingyi Technology Co., Ltd, Tianjin, China.
+- *2014.03 - 2015.06*, Co-Funder and Senior Software Engineer, Tianjin Chuanhe Technology Co., Ltd, Tianjin, China.
+- *2014.01 - 2014.07*, Software Engineer and Team Leader, iSoftStone (Tianjin) Information Technology Group Co, Ltd, Tianjin, China.
+- *2013.06 - 2013.07*, Software Engineer & Team Leader, IBM (Tianjin) Experienced Training Program, Tianjin, China.
 
 # 🎖 Others
 
