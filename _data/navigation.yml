@@ -18,11 +18,5 @@ main:
   - title: "Internship"
     url: "/#-internship-and-visiting-experience"
 
-  - title: "Award"
-    url: "/#-award"
-    
-  - title: "Reviewer"
-    url: "/#-reviewer"
-
-  - title: "Teaching"
-    url: "/#-teaching"
+  - title: "Others"
+    url: "/#-award, reviewer and teaching"
