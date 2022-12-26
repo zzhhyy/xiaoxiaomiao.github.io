@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou](https://colips.org/~eleliha/). Prior to that, I received my Master’s Degree from NUS in 2019 and my Bachelor's Degree from Soochow University in 2018.
+I am a <font color="#0b5394">PhD</font> student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou](https://colips.org/~eleliha/). Prior to that, I received my <font color="#0b5394">Master's</font> Degree from NUS in 2019 and my <font color="#0b5394">Bachelor's</font> Degree from Soochow University in 2018.
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
-- *Speech Processing*: Speaker recognition and verification; Speech separation
-- *Computer Vision*: Face recognition; Face detection; Lip reading
-- *Multi-modal Processing*: Audio-visual active speaker detection
-- *Self-supervised Learning*: Self-supervised speech processing
+- <font color="Blue">*Speech Processing*</font>: Speaker recognition and verification; Speech separation
+- <font color="Blue">*Computer Vision*</font>: Face recognition; Face detection; Lip reading
+- <font color="Blue">*Multi-modal Processing*</font>: Audio-visual active speaker detection
+- <font color="Blue">*Self-supervised Learning*</font>: Self-supervised speech processing
 
 # 🏫 Education
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
