@@ -23,10 +23,11 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 # 📜 Research Area
 
-- <font color="#0b5394">Speech Processing</font>Speaker recognition and verification; Speech separation
+-  <font color="#0b5394">Speech Processing</font>Speaker recognition and verification; Speech separation
 - <font color="#0b5394">Computer Vision</font>Face recognition; Face detection; Lip reading
 - <font color="#0b5394">Multi</font>-modal Processing: Audio-visual active speaker detection
 - Self-supervised Learning: Self-supervised speech processing
+- , <font color="red">Computer Vision</font>: Face recognition; Face detection; Lip reading.
 
 # 🏫 Education
 
@@ -71,14 +72,14 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
 
-# ⌨️ Code
+# Code
 
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
 - *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
 - *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
 - *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
 - *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
-
+⌨️ 
 
 # 👔 Internship and Visiting Experience
 
