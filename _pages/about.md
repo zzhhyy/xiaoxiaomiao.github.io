@@ -28,6 +28,29 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 -  <font color="#0b5394"> Multi-modal Processing </font>: Audio-visual active speaker detection
 -  <font color="#0b5394"> Self-supervised Learning </font>: Self-supervised speech processing
 
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```
+<font color="#0b5394"> Multi-modal Processing </font>: Audio-visual active speaker detection
+```
+
+</td>
+<td>
+
+```
+<font color="#0b5394"> Self-supervised Learning </font>: Self-supervised speech processing
+```
+
+</td>
+</tr>
+</table>
+
 # 🏫 Education
 
 - *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
