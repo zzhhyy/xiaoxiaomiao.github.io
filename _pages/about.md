@@ -21,7 +21,7 @@ I am a PhD student in National University of Singapore (NUS), supervised by Prof
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH.
 
-# <i class="fab fa-fw fa-github" aria-hidden="true"></i></a> Research Area
+# <i class="fa-solid fa-book"></i> Research Area
 - *Speech Processing*: Speaker recognition and verification; Speech separation
 - *Computer Vision*: Face recognition; Face detection; Lip reading
 - *Multi-modal Processing*: Audio-visual active speaker detection
