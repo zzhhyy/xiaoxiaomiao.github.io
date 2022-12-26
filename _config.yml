@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ge Meng"
-description              : "Research Asistant at the Chinese University of Hong Kong, Shenzhen"
-repository               : "gemengtju/gemengtju.github.io"
+title                    : "Tao Ruijie"
+description              : "PhD student at National University of Singapore"
+repository               : "TaoRuijie/taoruijie.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "GE MENG"
+  name             : "Tao Ruijie"
   avatar           : "images/gemeng.png"
   bio              : "[Curriculum Vitae]"
-  location         : "Shenzhen, China"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=Ody4GF0AAAAJ&hl=en"
-  email            : "gemeng@tju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=sdXITx8AAAAJ&hl=en"
+  email            : "ruijie.tao@u.nus.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gemengtju"
+  github           : "TaoRuijie"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ACoAAC42AT0BVyLL7KKnrxEx22RUL0iREXigxB0"
+  linkedin         : "https://www.linkedin.com/in/tao-ruijie-38137516a/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "627545197?spm_id_from=333.337.0.0"
+  youtube          : "https://space.bilibili.com/194466325?spm_id_from=333.1007.0.0"
   wikipedia        :
 
 
