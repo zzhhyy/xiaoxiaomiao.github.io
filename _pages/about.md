@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)) and Prof. [Wang Xinchao](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en). Prior to that, I received the Master's Degree from NUS in 2019 and Bachelor's Degree from Soochow University in 2018.
 
-My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences such as ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences and journals such as TASLP, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -35,16 +35,17 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 # 🏫 Education
 
-- *2019.08 - 2023.07*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
+- *2019.08 - 2023.08*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
 
 # 📝 Publication
 
-**2022**
+**2023**
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Shi Zhan and Haizhou Li, **ICASSP**, 2023. [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=Code+Stars)](https://github.com/TaoRuijie/AVCleanse)
 
-- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **submit to TASLP**, 2022. 
-- [Speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Shi Zhan and Haizhou Li, **submit to ICASSP**, 2022. [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=Code+Stars)](https://github.com/TaoRuijie/AVCleanse)
+**2022**
 - Deep Cross-modal Retrieval between Space Image and Acoustic Speech, Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **submit to TMM**, 2022. 
 - [Self-supervised Speaker Recognition with Loss-gated Learning](https://arxiv.org/pdf/2110.03869.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li. **ICASSP**, 2022, [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=Code+Stars)](https://github.com/TaoRuijie/Loss-Gated-Learning)
 - [Selective Hearing through Lip-reading](https://arxiv.org/pdf/2106.07150.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, Haizhou Li, **TASLP**, 2022.
