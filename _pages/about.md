@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)) and Prof. [Wang Xinchao](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en). Prior to that, I received the Master's Degree from NUS in 2019 and Bachelor's Degree from Soochow University in 2018.
+I am a post-doc in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)). Prior to that, I received the PhD and Master Degree from NUS in 2023 and 2019, Bachelor Degree from Soochow University in 2018.
 
 My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences and journals such as TASLP, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -88,7 +88,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 **Reviewer**
 
-- Reviewer of CVPR, SPL
+- Reviewer of Computer Vision and Pattern Recognition Conference (CVPR), Transactions on Audio, Speech, and Language Processing (TASLP), The International Conference on Acoustics, Speech, & Signal Processing (ICASSP), Digital Signal Processing, Signal Processing Letters, Computer Speech & Language
 
 **Teaching**
 
