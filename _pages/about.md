@@ -88,7 +88,12 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 **Reviewer**
 
-- Reviewer of Computer Vision and Pattern Recognition Conference (CVPR), Transactions on Audio, Speech, and Language Processing (TASLP), The International Conference on Acoustics, Speech, & Signal Processing (ICASSP), Digital Signal Processing, Signal Processing Letters, Computer Speech & Language
+- Computer Vision and Pattern Recognition Conference (CVPR),
+- Transactions on Audio, Speech, and Language Processing (TASLP),
+- The International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
+- Signal Processing Letters (SPL),
+- Digital Signal Processing (DSP),
+- Computer Speech & Language (CSL)
 
 **Teaching**
 
