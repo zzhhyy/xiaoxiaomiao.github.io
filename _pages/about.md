@@ -45,7 +45,7 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 # 📝 Publication
 
 **2023**
-- Deep Cross-modal Retrieval between Space Image and Acoustic Speech, Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **TMM**, 2023.
+- [Deep Cross-modal Retrieval between Space Image and Acoustic Speech](https://ieeexplore.ieee.org/abstract/document/10285477), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **TMM**, 2023.
 - Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification, Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **Submit to ICASSP**, 2023.
 - USED: Universal Speaker Extraction and Diarization, Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Submit to ICASSP**, 2023.
 - Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech, Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **Submit to ICASSP**, 2023.
