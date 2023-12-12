@@ -44,12 +44,14 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 # 📝 Publication
 
+**2024**
+- [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP Submission**, 2024.
+- [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP Submission**, 2024.
+- [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP Submission**, 2024.
+- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **ICASSP Submission**, 2024.
+
 **2023**
 - [Deep Cross-modal Retrieval between Space Image and Acoustic Speech](https://ieeexplore.ieee.org/abstract/document/10285477), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **TMM**, 2023.
-- Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification, Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **Submit to ICASSP**, 2023.
-- USED: Universal Speaker Extraction and Diarization, Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Submit to ICASSP**, 2023.
-- Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech, Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **Submit to ICASSP**, 2023.
-- Prompt-driven Target Speech Diarization, Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li **Submit to ICASSP**, 2023.
 - [Bi-directional Image-Speech Retrieval Through Geometric Consistency](https://av4d.org/papers/iccv23/p2.pdf), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao**, Yiming Wang, Kainan Chen, Haizhou Li, **ICCV Workshop**, 2023.
 - [Target Active Speaker Detection with Audio-visual Cues](https://arxiv.org/pdf/2305.12831.pdf), Yidi Jiang, **Ruijie Tao**, Zexu Pan and Haizhou Li, **INTERSPEECH**, 2023. [![](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet?style=social&label=Code+Stars)](https://github.com/Jiang-Yidi/TS-TalkNet)
 - [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://ieeexplore.ieee.org/document/10106039), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
