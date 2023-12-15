@@ -45,10 +45,10 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 # 📝 Publication
 
 **2024**
-- [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP Submission**, 2024.
-- [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP Submission**, 2024.
-- [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP Submission**, 2024.
-- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **ICASSP Submission**, 2024.
+- [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024.
+- [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP**, 2024.
+- [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP**, 2024.
+- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Arxiv**, 2024.
 
 **2023**
 - [Deep Cross-modal Retrieval between Space Image and Acoustic Speech](https://ieeexplore.ieee.org/abstract/document/10285477), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **TMM**, 2023.
@@ -67,8 +67,8 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 - [Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection](https://arxiv.org/pdf/2107.06592.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **ACM Multimedia**, <font color="red">Oral</font>, 2021, [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/TalkNet_ASD)
 - [NUS-HLT Report for ActivityNet Challenge 2021 AVA (Speaker)](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S3_NUS_Report_AVA_ActiveSpeaker_2021.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **CVPR Workshop Report**, 2021.
 - [Muse: Multi-modal target speaker extraction with visual cues](https://arxiv.org/pdf/2010.07775.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, **ICASSP**, 2021. 
-- [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
-- [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021.
+- [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **Arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
+- [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **Arxiv**, 2021.
 
 **2020** 
 
