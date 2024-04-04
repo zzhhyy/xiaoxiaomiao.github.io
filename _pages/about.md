@@ -23,8 +23,11 @@ My research interest Audio-visual speech processing, includes (audio-only or aud
 
 # 📜 Research Area
 Speech Processing: Speaker recognition, Speaker diarizationm, Target speaker extraction, anti-spoofing, speech separation, voice conversation, text-to-speech
+
 Computer Vision: Face recognition; Face detection; Lip reading
+
 Multi-modal Processing: Audio-visual active speaker detection, AV speaker recognition, AV target speaker extraction, talking face generation
+
 Algoirthm: Self-supervised speech processing
 
 # 🏫 Education
