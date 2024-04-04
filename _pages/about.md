@@ -22,16 +22,10 @@ I am the Research Fellow in National University of Singapore (NUS), supervised b
 My research interest Audio-visual speech processing, includes (audio-only or audio-visual) speaker recognition, speaker diarization, speech extraction, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences and journals such as TASLP, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Speaker recognition, Speaker diarizationm, Target speaker extraction, anti-spoofing, speech separation, voice conversation, text-to-speech </td>
-    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face recognition; Face detection; Lip reading</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection, AV speaker recognition, AV target speaker extraction, talking face generation </td>
-    <td style="border: none;"> <font color="#0b5394"> Algoirthm </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing </td>
-  </tr>
-</table>
+Speech Processing: Speaker recognition, Speaker diarizationm, Target speaker extraction, anti-spoofing, speech separation, voice conversation, text-to-speech
+Computer Vision: Face recognition; Face detection; Lip reading
+Multi-modal Processing: Audio-visual active speaker detection, AV speaker recognition, AV target speaker extraction, talking face generation
+Algoirthm: Self-supervised speech processing
 
 # 🏫 Education
 
