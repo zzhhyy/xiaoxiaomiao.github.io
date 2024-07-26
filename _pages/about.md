@@ -91,9 +91,9 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 # 🎖 Others
 
 **Award**
-
+- The 1st place winner in FAME Challenge, ACM-Multimedia, 2024
 - Egocentric Vision (EgoVis) 2022/2023 Distinguished Paper Award, 2024
-- IEEE Spoken Language Processing Student Travel Grant (Corresponding author), 2024
+- IEEE SLP Student Travel Grant, ICASSP Best Paper Nominee (Corresponding author), 2024
 - Nanyang Speech Technology Forum, Best Student Paper Award, 2023
 - PREMIA, Best Student Paper Award, 2022
 - CVPR Best Paper Nominee, 2022
@@ -104,11 +104,15 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 **Reviewer**
 
 - Computer Vision and Pattern Recognition Conference (CVPR),
-- Transactions on Audio, Speech, and Language Processing (TASLP),
-- The International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
+- IEEE Transactions on Audio, Speech, and Language Processing (TASLP),
+- IEEE The International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
+- IEEE Spoken Language Technology Workshop(SLT),
+- The International Speech Communication Association (INTERSPEECH),
 - Signal Processing Letters (SPL),
 - Digital Signal Processing (DSP),
 - Computer Speech & Language (CSL)
+- IEEE Open Journal of Signal Processing (OJSP)
+- International Symposium on Chinese Spoken Language Processing (ISCSLP)
 
 **Teaching**
 
