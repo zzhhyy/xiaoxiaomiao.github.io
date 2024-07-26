@@ -42,9 +42,10 @@ Algoirthm: Self-supervised speech processing
 # 📝 Publication
 
 **2024**
+- [Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization](https://arxiv.org/pdf/2407.17902) **Ruijie Tao**, Shi Zhan, Yidi Jiang, Duc-Tuan Truong, Eng-Siong Chng, Massimo Alioto and Haizhou Li. **ACM Multimedia**, 2024, [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD)
 - [How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?](https://arxiv.org/pdf/2406.02483.pdf), Tianchi Liu, Lin Zhang, Rohan Kumar Das, Yi Ma, **Ruijie Tao**, Haizhou Li, **INTERSPEECH**, 2024.
-- Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection, Duc-Tuan Truong, **Ruijie Tao**, Tuan Nguyen, Hieu-Thi Luong, Kong Aik Lee, Eng Siong Chng, **INTERSPEECH**, 2024.
-- [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024.
+- [Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection, Duc-Tuan Truong](https://arxiv.org/pdf/2406.17376), **Ruijie Tao**, Tuan Nguyen, Hieu-Thi Luong, Kong Aik Lee, Eng Siong Chng, **INTERSPEECH**, 2024. [![](https://img.shields.io/github/stars/ductuantruong/tcm_add?style=social&label=Code+Stars)](https://github.com/ductuantruong/tcm_add)
+- [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024. [![](https://img.shields.io/github/stars/ductuantruong/enskd?style=social&label=Code+Stars)](https://github.com/ductuantruong/enskd)
 - [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP**, 2024.
 - [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP**, 2024.
 - [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Arxiv**, 2024.
