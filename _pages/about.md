@@ -48,7 +48,12 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 - [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024. [![](https://img.shields.io/github/stars/ductuantruong/enskd?style=social&label=Code+Stars)](https://github.com/ductuantruong/enskd)
 - [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP**, 2024.
 - [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP**, <font color="red">Oral</font>, 2024.
-- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Arxiv**, 2024.
+- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Under Review**, 2024.
+- [A Benchmark for Multi-speaker Anonymization](https://arxiv.org/pdf/2407.05608), Xiaoxiao Miao, **Ruijie Tao**, Chang Zeng, Xin Wang, **Under Review**, 2024.
+- [Target Speech Diarization with Multimodal Prompts](https://arxiv.org/pdf/2406.07198), Yidi Jiang, **Ruijie Tao**, Zhengyang Chen, Yanmin Qian, Haizhou Li, **Under Review**, 2024.
+- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), **Ruijie Tao**, Xinyuan Qian, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, **Under Review**, 2024.
+- [Voice Conversion Augmentation for Speaker Recognition on Defective Datasets](https://arxiv.org/pdf/2404.00863), **Ruijie Tao**, Zhan Shi, Yidi Jiang, Tianchi Liu, Haizhou Li, **Under Review**, 2024.
+- [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training]([https://arxiv.org/pdf/2309.10674.pdf](https://arxiv.org/pdf/2404.00861)), **Ruijie Tao**, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, Jiadong Wang, Haizhou Li, **Under Review**, 2024.
 
 **2023**
 - [Deep Cross-modal Retrieval between Space Image and Acoustic Speech](https://ieeexplore.ieee.org/abstract/document/10285477), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **TMM**, 2023.
