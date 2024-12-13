@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the Research Fellow in National University of Singapore (NUS). Prior to that, I received the PhD and Master Degree from NUS in 2023 and 2019, supervised by Prof. [Li Haizhou](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en), Bachelor Degree from Soochow University in 2018.
+I am the Audio AI Enginner in zoom company, Singapore. Prior to that, from 2023 to 2024, I was the Research Fellow in National University of Singapore (NUS). I received the PhD and Master Degree from NUS in 2023 and 2019, supervised by Prof. [Li Haizhou](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en), Bachelor Degree from Soochow University in 2018.
 
 My research interest includes (audio-only or audio-visual) speech processing: enhancement, extraction and seperation; speaker processing: recognition, diarization, active speaker detection and anti-spoofing. I also work in self-supervised learning. I have published more than 20 papers at the top international AI conferences and journals such as TASLP, TMM, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -32,12 +32,14 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 
 # 🏫 Education
 
-- *2019.08 - 2023.08*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
+- *2019.08 - 2023.09*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
 - *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 - *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
 
 # Working Experience
-- *2023.08 - Now*, Research Fellow, National University of Singapore (NUS), Singapore.
+- *2024.12 - Now*, Audio AI Enginner, Zoom, Singapore.
+- *2023.08 - 2024.11*, Research Fellow, National University of Singapore (NUS), Singapore.
+
 
 # 📝 Publication
 
@@ -111,14 +113,15 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 
 - Computer Vision and Pattern Recognition Conference (CVPR),
 - IEEE Transactions on Audio, Speech, and Language Processing (TASLP),
+- IEEE Transactions on Information Forensics and Security (TIFS),
 - IEEE The International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
 - IEEE Spoken Language Technology Workshop(SLT),
 - The International Speech Communication Association (INTERSPEECH),
 - Signal Processing Letters (SPL),
 - Digital Signal Processing (DSP),
-- Computer Speech & Language (CSL)
-- IEEE Open Journal of Signal Processing (OJSP)
-- International Symposium on Chinese Spoken Language Processing (ISCSLP)
+- Computer Speech & Language (CSL),
+- IEEE Open Journal of Signal Processing (OJSP),
+- International Symposium on Chinese Spoken Language Processing (ISCSLP).
 
 **Teaching**
 
