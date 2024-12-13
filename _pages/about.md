@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the Audio AI Enginner in zoom company, Singapore. Prior to that, from 2023 to 2024, I was the Research Fellow in National University of Singapore (NUS). I received the PhD and Master Degree from NUS in 2023 and 2019, supervised by Prof. [Li Haizhou](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en), Bachelor Degree from Soochow University in 2018.
+I am the Audio AI Enginner in Zoom, Singapore. Prior to that, from 2023 to 2024, I was the Research Fellow in National University of Singapore (NUS). I received the PhD and Master Degree from NUS in 2023 and 2019, supervised by Prof. [Li Haizhou](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en), Bachelor Degree from Soochow University in 2018.
 
 My research interest includes (audio-only or audio-visual) speech processing: enhancement, extraction and seperation; speaker processing: recognition, diarization, active speaker detection and anti-spoofing. I also work in self-supervised learning. I have published more than 20 papers at the top international AI conferences and journals such as TASLP, TMM, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
