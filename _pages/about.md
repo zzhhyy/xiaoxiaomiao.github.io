@@ -44,9 +44,9 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 # 📝 Publication
 
 **2024**
-- [Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization](https://arxiv.org/pdf/2407.17902) **Ruijie Tao**, Shi Zhan, Yidi Jiang, Duc-Tuan Truong, Eng-Siong Chng, Massimo Alioto and Haizhou Li. **ACM Multimedia**, 2024, [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD)
+- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), **Ruijie Tao**, Xinyuan Qian, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, **TASLP**, 2024.
 - [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/pdf/2404.00861), **Ruijie Tao**, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, Jiadong Wang, Haizhou Li, **TMM**, 2024.
-- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), **Ruijie Tao**, Xinyuan Qian, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, **Under Review**, 2024.
+- [Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization](https://arxiv.org/pdf/2407.17902) **Ruijie Tao**, Shi Zhan, Yidi Jiang, Duc-Tuan Truong, Eng-Siong Chng, Massimo Alioto and Haizhou Li. **ACM Multimedia**, 2024, [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD)
 - [Voice Conversion Augmentation for Speaker Recognition on Defective Datasets](https://arxiv.org/pdf/2404.00863), **Ruijie Tao**, Zhan Shi, Yidi Jiang, Tianchi Liu, Haizhou Li, **Under Review**, 2024.
 - [How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?](https://arxiv.org/pdf/2406.02483.pdf), Tianchi Liu, Lin Zhang, Rohan Kumar Das, Yi Ma, **Ruijie Tao**, Haizhou Li, **INTERSPEECH**, <font color="red">Oral</font>, 2024.
 - [Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection](https://arxiv.org/pdf/2406.17376), Duc-Tuan Truong, **Ruijie Tao**, Tuan Nguyen, Hieu-Thi Luong, Kong Aik Lee, Eng Siong Chng, **INTERSPEECH**, 2024. [![](https://img.shields.io/github/stars/ductuantruong/tcm_add?style=social&label=Code+Stars)](https://github.com/ductuantruong/tcm_add)
