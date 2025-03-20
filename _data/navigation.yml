@@ -4,19 +4,19 @@ main:
     url: "/#-about-me"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/# teaching"
     
   - title: "Projects"
-    url: "/#-projects-as-PI"
+    url: "/# projects-as-PI"
     
   - title: "Patent and License"
-    url: "/#-patent-and-License-as-the-first-author"
+    url: "/# patent-and-License-as-the-first-author"
 
   - title: "Academic Activities"
-    url: "/#-academic-activities"
+    url: "/# academic-activities"
 
   - title: "Publication"
-    url: "/#-publication"
+    url: "/# publication"
 
   - title: "Code"
     url: "/#-code"
