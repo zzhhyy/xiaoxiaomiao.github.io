@@ -29,17 +29,15 @@ My research interest includes speech security, speaker and language recognition,
 
 
 <div class="warning">
-<div class="warning-title"><p>Recruiting</p></div>
-<div class="warning-text"><p>
-I’m looking for a full-time research assistant with a master's degree, starting in August 2025 at Duke KunShan University, to work with me on the voice privacy topic and assist with the machine learning course as a TA. If you are interested in working with me, drop me an email (xiaoxiao.miao@singaporetech.edu.sg) with your CV and transcripts attached.
-</p>
-<p style="margin-top:-0.8em">
-If you are interested in working with me, fill in this <a href="https://wj.qq.com/s2/15000145/4328/">quick survey</a> or drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached.
-</p>
+  <div class="warning-title">
+    <p>Recruiting</p>
+  </div>
+  <div class="warning-text">
+    <p>
+      I’m looking for a <strong>full-time research assistant</strong> with a <strong>master's degree</strong>, starting in <strong>August 2025</strong> at <strong>Duke Kunshan University</strong>, to work with me on the <strong>voice privacy</strong> topic and assist with the <strong>machine learning course</strong> as a TA. If you are interested in working with me, drop me an email at <a href="mailto:xiaoxiao.miao@singaporetech.edu.sg">xiaoxiao.miao@singaporetech.edu.sg</a> with your <strong>CV</strong> and <strong>transcripts</strong> attached.
+    </p>
+  </div>
 </div>
-
-
-# Recruiting
 
 # Teaching
 - AAI3001, Deep Learning and Computer Vision, SIT undergraduate course
