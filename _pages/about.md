@@ -32,7 +32,7 @@ My research interest includes speech security, speaker and language recognition,
     <p>Recruiting</p>
   </div>
   <div class="warning-text">
-    <p style="margin-top: -0.8em;">
+    <p style="margin-top: 1.2em;">
       I’m looking for a <strong>full-time research assistant</strong> with a <strong>master's degree</strong>, starting in <strong>August 2025</strong> at <strong>Duke Kunshan University</strong>, to work with me on the <strong>voice privacy</strong> topic and assist with the <strong>machine learning course</strong> as a TA. If you are interested in working with me, drop me an email at <a href="mailto:xiaoxiao.miao@singaporetech.edu.sg">xiaoxiao.miao@singaporetech.edu.sg</a> with your <strong>CV</strong> and <strong>transcripts</strong> attached.
     </p>
   </div>
