@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-about-me"
+    url: "/#about-me"
 
   - title: "Teaching"
     url: "/#teaching"
@@ -10,16 +10,16 @@ main:
     url: "/#projects-as-PI"
     
   - title: "Patent and License"
-    url: "/# patent-and-License-as-the-first-author"
+    url: "/#patent-and-License-as-the-first-author"
 
   - title: "Academic Activities"
-    url: "/# academic-activities"
+    url: "/#academic-activities"
 
   - title: "Publication"
-    url: "/# publication"
+    url: "/#publication"
 
   - title: "Code"
-    url: "/#-code"
+    url: "/#code"
     
   - title: "Award"
-    url: "/#-award"
+    url: "/#award"
