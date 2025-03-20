@@ -27,13 +27,17 @@ My research interest includes speech security, speaker and language recognition,
 [VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
 <div class="warning">
-<div class="warning-title"><p>Recruiting</p></div>
-<div class="warning-text"><p>
-I’m looking for a full-time research assistant with a master's degree, starting in August 2025 at Duke KunShan University, to work with me on the voice privacy topic and assist with the machine learning course as a TA.
-</p>
-<p style="margin-top:-0.8em">
-If you are interested in working with me, drop me an email (xiaoxiao.miao@singaporetech.edu.sg) with your CV and transcripts attached.
-</p>
+  <div class="warning-title">
+    <p>Recruiting</p>
+  </div>
+  <div class="warning-text">
+    <p>
+      I’m looking for a full-time research assistant with a master's degree, starting in August 2025 at Duke KunShan University, to work with me on the voice privacy topic and assist with the machine learning course as a TA.
+    </p>
+    <p class="email-info">
+      If you are interested in working with me, drop me an email (xiaoxiao.miao@singaporetech.edu.sg) with your CV and transcripts attached.
+    </p>
+  </div>
 </div>
   
 # Teaching
