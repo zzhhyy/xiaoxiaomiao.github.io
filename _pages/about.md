@@ -27,18 +27,9 @@ During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
 [VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
-<div style="background-color: #f8d7da; padding: 20px; border-radius: 8px;">
-  <h1>Recruiting</h1>
+# Recruiting
+I’m looking for a full-time research assistant with a master's degree, starting in August 2025 at Duke KunShan University, to work with me on the voice privacy topic and assist with the machine learning course as a TA. If you are interested in working with me, drop me an email (xiaoxiao.miao@singaporetech.edu.sg) with your CV and transcripts attached.
 
-  <p>
-    I’m looking for a full-time research assistant with a master's degree, starting in August 2025 at Duke KunShan University, to work with me on the voice privacy topic and assist with the machine learning course as a TA.
-  </p>
-
-  <p>
-    If you are interested in working with me, drop me an email (xiaoxiao.miao@singaporetech.edu.sg) with your CV and transcripts attached.
-  </p>
-</div>
-  
 # Teaching
 - AAI3001, Deep Learning and Computer Vision, SIT undergraduate course
 - INF2008, Machine Learning, SIT undergraduate course
