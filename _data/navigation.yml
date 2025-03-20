@@ -3,20 +3,29 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research"
-    url: "/#-research-area"
+  - title: "Recruiting"
+    url: "/#-recruiting"
 
   - title: "Education"
     url: "/#-education"
 
+  - title: "Teaching"
+    url: "/#-teaching"
+    
+  - title: "Projects"
+    url: "/#-projects"
+    
+  - title: "Patent and License"
+    url: "/#-patent-license"
+
+  - title: "Academic Activities"
+    url: "/#-activities"
+
   - title: "Publication"
     url: "/#-publication"
-    
-  - title: "Code"
-    url: "/#-open-source-code"
-    
-  - title: "Internship"
-    url: "/#-internship-and-visiting-experience"
 
-  - title: "Others"
-    url: "/#-others"
+  - title: "Code"
+    url: "/#-code"
+    
+  - title: "Award"
+    url: "/#-award"
