@@ -1,31 +1,35 @@
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
-
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-
   <div class="author__urls-wrapper">
-    <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
-      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email </a></li>
+      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       
+      {% if author.wikipedia %}
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
     </ul>
-      <div class="author__urls_sm">
+
+    <div class="author__urls_sm">
       <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
       <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
-      
     </div>
   </div>
 </div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=us8Tn0_WWeFAbuVZPU0HxH5Wyz8VnRR546-e4JO8ALM&co=599bca&cmo=e89595&cmn=9ae89a&ct=f0f0f0'></script>
