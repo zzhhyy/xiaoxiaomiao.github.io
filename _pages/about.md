@@ -27,8 +27,19 @@ During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
 [VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
-# Recruiting
+
+<div class="warning">
+<div class="warning-title"><p>Recruiting</p></div>
+<div class="warning-text"><p>
 I’m looking for a full-time research assistant with a master's degree, starting in August 2025 at Duke KunShan University, to work with me on the voice privacy topic and assist with the machine learning course as a TA. If you are interested in working with me, drop me an email (xiaoxiao.miao@singaporetech.edu.sg) with your CV and transcripts attached.
+</p>
+<p style="margin-top:-0.8em">
+If you are interested in working with me, fill in this <a href="https://wj.qq.com/s2/15000145/4328/">quick survey</a> or drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached.
+</p>
+</div>
+
+
+# Recruiting
 
 # Teaching
 - AAI3001, Deep Learning and Computer Vision, SIT undergraduate course
