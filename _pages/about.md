@@ -7,16 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 {% include styles.html %} 
+
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+  {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+  {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 
 I am an assistant professor at Singapore Institute of Technology until July 2025 and will join [Duke KunShan University](https://www.dukekunshan.edu.cn) as a tenure-track assistant professor in August 2025. 
 Prior to that, from 2021 to 2023, I was a postdoctoral researcher at the National Institute of Informatics (NII), Japan, supervised by Prof [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN).
