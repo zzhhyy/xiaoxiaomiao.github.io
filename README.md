@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Personal Web: https://taoruijie.github.io/
+Personal Web: https://xiaoxiaomiao323.github.io/xiaoxiaomiao/
 
 <!--
 **jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://komarev.com/ghpvc/?username=TaoRuijie&style=plastic&color=green)
+![](https://komarev.com/ghpvc/?username=xiaoxiaomiao323&style=plastic&color=green)
