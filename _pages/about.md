@@ -36,11 +36,13 @@ My research interest includes speech security, speaker and language recognition,
   </div>
 </div>
 
-
+<span class='anchor' id='teaching'></span>
 # Teaching
 - AAI3001, Deep Learning and Computer Vision, SIT undergraduate course
 - INF2008, Machine Learning, SIT undergraduate course
-  
+
+
+<span class='anchor' id='projects-as-PI'></span>
 # Projects as PI
 - Biometrics Security
   - 2022-2023 JSPS KAKENHI Grant-in-Aid for Research Start-up (22K21319): Language-independent speaker anonymization with multiple privacy-related attributes, Budget: 2.2M JPY.
@@ -49,16 +51,22 @@ My research interest includes speech security, speaker and language recognition,
 - Large Language Model
   - 2024-2025 MOE Ignition Grant (R-IE3-A405-0005): Generative AI Aided Safety Investigation System, Budget: 180K SGD (Including 30K cash contribution from Singapore SMRT).
 
+
+
+<span class='anchor' id='patent-and-License-as-the-first-author'></span>
 # Patent and License as the First Author
 - Japanese patent: Deep-learning based speaker anonymization method.
 - Japanese program commercial license granted by Japan Broadcasting Corporation (NHK): VocalGuard, a speaker anonymization program.
 
+<span class='anchor' id='academic-activities'></span>
 # Academic Activities
 - Organizer: Attacker Challenge at ICASSP 2025, VoicePrivacy Challenge 2024 and 2022.
 - Session chair: ICASSP 2024, INTERSPEECH 2023, ISCSLP 2022.
 - Reviewer: IEEE TASLP, IEEE TPAMI, IEEE SPL, CSL, ICASSP, INTERSPEECH, etc.
 
 
+
+<span class='anchor' id='publication'></span>
 # Publication
 
 **2025**
@@ -99,12 +107,14 @@ My research interest includes speech security, speaker and language recognition,
 - [A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification](https://www.isca-archive.org/interspeech_2019/miao19b_interspeech.pdf), **Xiaoxiao Miao**, Ian McLoughlin, Yonghong Yan, *INTERSPEECH*, 2019.
 - [Improved conditional generative adversarial net classification for spoken language recognition](https://ieeexplore.ieee.org/abstract/document/8639522), **Xiaoxiao Miao**, Ian McLoughlin, Shengyu Yao, Yonghong Yan, *SLT*, 2018.
 
+<span class='anchor' id='code'></span>
 # Code
 - *Language-Independent Speaker Anonymization* [![](https://img.shields.io/github/stars/nii-yamagishilab/SSL-SAS)](https://github.com/nii-yamagishilab/SSL-SAS)
 - *Multi-Speaker Anonymization* [![](https://img.shields.io/github/stars/xiaoxiaomiao323/MSA)](https://github.com/xiaoxiaomiao323/MSA)
 - *Voice Anonymization Toolkit* [![](https://img.shields.io/github/stars/DigitalPhonetics/VoicePAT)](https://github.com/DigitalPhonetics/VoicePAT)
 - *VoicePrivacy Challenge 2024* [![](https://img.shields.io/github/stars/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2024)](https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2024)
 
+<span class='anchor' id='award'></span>
 # Award
 - Outstanding reviewer award in INTERSPEECH, 2023
 - Best paper nomination award in Odyssey, 2022
